@@ -1,0 +1,12 @@
+.form{
+    background: brown;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+.button{
+    display:inline-block;
+    width:100%;
+    margin-top: 10px;
+}

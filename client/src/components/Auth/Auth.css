@@ -1,0 +1,21 @@
+.authContainer{
+    background-color: yellow;
+    margin-top: 50px;
+    width:40%;
+    text-align: center;
+}
+
+.inputContainer{
+    margin-top: 10px;
+}
+
+.submitButton{
+    margin-top: 10px;
+    width: 90%;
+}
+
+.textButton{
+    margin-top:10px;
+    display: flex;
+    justify-content: flex-end;
+}
