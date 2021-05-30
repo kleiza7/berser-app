@@ -1,27 +1,44 @@
 .navbar{
     border-radius: 10px;
-    margin-top: 25px;
-    margin-bottom: 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
     justify-content: space-between;
+}
+.syp {
+    margin-left: -350px;
+    width: 100%;
 }
 
 
 .profile{
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: center;
-    width:100%;
+    margin-left: -315px;
+    width:220%;
+}
+.userName{
+    margin-left: -50px;
 }
 
-.avatar{
-    width:50px;
-    height:50px;
+.avatar{ 
+    width: 48px;
+    height:48px;
+    margin-right: 7px;
     background-color: rgb(207, 133, 110);
-    border-radius: 50px;
+    border-radius: 40px;
+    
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .link{
-    color:black;
+    
+    color:rgb(247, 244, 244);
 }
+.img {
+    width: 45px;
+    height: 45px;
+
+}
+

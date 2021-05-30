@@ -1,0 +1,21 @@
+.authContainer{
+    background-image: url("https://www.melondigital.com.tr/wp-content/uploads/2018/11/light-gray-background-soft-fifteen-shades-of-grey-smooth-background-with-the-addition-of-a-bit-of-noise_be-2qbqqkl_thumbnail-full01.png");
+   background-attachment: fixed;
+    background-size: cover;
+
+    margin-top: 50px;
+    width:51%;
+    text-align: center;
+}
+
+.input{
+    margin-top: 20px;
+}
+
+.submitButton{
+    margin-top: 30px;
+    margin-bottom:30px;
+    margin-left: 15px;
+    width: 20%;
+}
+

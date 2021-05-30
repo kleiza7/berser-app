@@ -1,0 +1,13 @@
+.avatarProfile{
+    width:40px;
+    height:40px;
+    background-color: rgb(207, 133, 110);
+    border-radius: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img {
+    width: 85px;
+    height: 85px;
+}

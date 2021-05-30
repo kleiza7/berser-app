@@ -16,6 +16,7 @@ const Home = ({currentId, setCurrentId}) => {
             <ProjectForm currentId={currentId} setCurrentId={setCurrentId} />
           </Col>
         </Row>
+        
       </Container>
     </div>
   );
